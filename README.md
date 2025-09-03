@@ -1,9 +1,6 @@
 <h2 align="left">I program stuff maybe</h2>
 
 ###
-<img src="stars.gif" width="100%" alt="star background"/>
-
-###
 
 
 <div align="center">
