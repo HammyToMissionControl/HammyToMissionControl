@@ -1,7 +1,7 @@
 <h2 align="left">I program stuff maybe</h2>
 
 ###
-<img src="https://i.gifer.com/Irp.gif" width="100%" alt="star background"/>
+<img src="stars.gif" width="100%" alt="star background"/>
 
 ###
 
