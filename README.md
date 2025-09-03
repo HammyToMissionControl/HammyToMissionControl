@@ -9,6 +9,14 @@
 
 ###
 
+h1 {
+  background: linear-gradient(90deg, #ff007f, #00fff7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+###
+
 <img align="right" height="150" src="Blackhole (2).png"  />
 
 ###
