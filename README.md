@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HammyToMissionControl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=1a0033&text_colour=9900cc&icon_color=00000&bg_color=3d0066&border_color=000000&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HammyToMissionControl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  color: #f5f5f5;&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HammyToMissionControl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
