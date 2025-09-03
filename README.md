@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/gargantua-interstellar-blackhole-space-singularity-gif-11343705"  />
+<img align="right" height="150" src="gargantua-interstellar.gif"  />
 
 ###
 
