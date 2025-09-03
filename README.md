@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="gargantua-interstellar.gif"  />
+<img align="right" height="150" src="blackhole.png"  />
 
 ###
 
