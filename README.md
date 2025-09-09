@@ -11,7 +11,7 @@
 ###
 
 <img align="right" height="150" src="Kenpach.gif"  /> 
-<img align ="left" height="150" src="SpinningVinyl.gif" />
+<img  height="150" src="SpinningVinyl.gif" />
 
 
 ###
