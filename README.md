@@ -11,8 +11,10 @@
 ###
 
 <img align="right" height="150" src="Kenpach.gif"  /> 
-<img align="left" height="150" src="SpinningVinyl.gif" />
 
+<a href = "https://open.spotify.com/playlist/23JsDdCEj2HdN0utmQjxuU?si=755db7f3f697486d&pt=86d5ad6a634ad52a871401cd808652d8"> 
+<img align="left" height="150" src="SpinningVinyl.gif" />
+</a>
 
 ###
 
