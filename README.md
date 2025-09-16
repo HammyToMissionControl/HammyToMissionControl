@@ -13,5 +13,5 @@
 </div>
 
 ---
-
-<img scr="https://github-readme-stats.vercel.app/api?username=HammyToMissionControl&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=HammyToMissionControl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
